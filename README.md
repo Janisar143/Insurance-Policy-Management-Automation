@@ -1,0 +1,8 @@
+-Project overview
+-Setup instruction
+-How to run tests
+-CI/CD itegration details
+-Test Plan:
+-Test objecttive, scope, and stratagy.
+-Test Cases:
+-Detailed test cases in Excel or TestRail.
